@@ -1,0 +1,9 @@
+{
+	"appId": "com.pixelprotech.app",
+	"appName": "PixelProTech Solutions",
+	"webDir": "www",
+	"backgroundColor": "#0a0a0f",
+	"android": {
+		"backgroundColor": "#0a0a0f"
+	}
+}
